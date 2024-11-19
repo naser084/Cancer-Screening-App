@@ -93,8 +93,8 @@ st.markdown(
 )
 
 # Main application
-st.title("Cancer Detection by Naser")
-st.header("Check if your tumor is cancerous or not.")
+st.title("Cancer Health Checker by Naser 🔬")
+st.header("Check if your tumor is cancerous or not.🦠")
 
 # Sidebar with sections
 st.sidebar.title("Information")
