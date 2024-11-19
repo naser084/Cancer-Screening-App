@@ -197,7 +197,7 @@ if st.button("Predict"):
     
     result = predict_cancer(user_inputs)
     if result == "Cancerous":
-        st.error("The tumor is Cancerous.")
+        st.error("The tumor is Cancerous.Get checked by a doctor right now!")
         st.snow()
     elif result == "Not Cancerous":
         st.success("The tumor is NOT Cancerous.")
